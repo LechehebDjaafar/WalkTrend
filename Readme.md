@@ -58,7 +58,7 @@ To run this project locally, follow these steps:
 
 ## 🌐 Live Demo
 
-🚀 Check out the live version of WalkTrand: [WalkTrand Live](https://your-live-demo-link.com)  
+🚀 Check out the live version of WalkTrand: [WalkTrand Live](https://lechehebdjaafar.github.io/WalkTrend/)  
 
 ---
 
@@ -67,7 +67,7 @@ To run this project locally, follow these steps:
 Feel free to reach out for any questions or feedback:
  
 - **Instagram**: [@CodeCraftDL](https://instagram.com/ddos_attack_co)  
-- **GitHub**: [github.com/username](https://github.com//LechehebDjaafar)  
+- **Youtube**: [Youtube.com](https://youtube.com/@codecraftdl)  
 
 ---
 
